@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 ## Run the application.
 1. Copy all the files in this repository into a local directory on your computer.
 2. Switch to the Python Environment
-3. Form the PC command line or MacOS Terminal type ls, to make sure you see the app.py file in that directory.
+3. Form the PC command line or MacOS Terminal type ls, and switch to the directory StartCode.
 4. Enter on the command line 'python -m http.server 8000'
 7. Start your local browser and enter 'localhost:8000' in the URL field
 
